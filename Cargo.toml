@@ -12,7 +12,7 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = { version = "0.17", features = ["extension-module", "macros"] }
-miausu-pp = { path = "../new-miausu-pp-rs" }
+miausu-pp = { path = "../miausu-pp-rs" }
 
 [profile.release]
 lto = "fat"
