@@ -1,19 +1,19 @@
-# refx-pp-py
+# miausu-pp-py
 
-Difficulty and performance calculation for all [osu!refx](https://refx.online/) modes. <br>
+Difficulty and performance calculation for all [Miausu](https://miausu.pw/) modes. <br>
 This is a fork from [akatsuki-pp-py](https://github.com/osuAkatsuki/akatsuki-pp-py).
 
 This is a python binding to the Rust library [refx-pp](https://github.com/refx-online/refx-pp-rs) which was bootstrapped through [PyO3](https://github.com/PyO3/PyO3).
 
 
-## Installing refx-pp-py
+## Installing miausu-pp-py
 
-Installing refx-pp-py requires a [supported version of Python and Rust](https://github.com/PyO3/PyO3#usage).
+Installing miausu-pp-py requires a [supported version of Python and Rust](https://github.com/PyO3/PyO3#usage).
 
 Once [Python](https://www.python.org/downloads/) and [Rust](https://www.rust-lang.org/learn/get-started) and ready to go, you can install the project with pip:
 
 ```
-$ pip install git+https://github.com/refx-online/refx-pp-py
+$ pip install git+https://github.com/MIausu/miausu-pp-py
 ```
 
 ## Learn More
